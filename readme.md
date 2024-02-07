@@ -1,6 +1,7 @@
 Greatings
+-------------
 
-this is just screen chat locker for fun 
+this is just screen locker with chat for fun 
 
 type "yesmylord" to get out of the locked screen
 
